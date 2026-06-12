@@ -1,10 +1,11 @@
 ---
 name: contract-consulting
+version: 2.2
 description: |
   계약 컨설팅 v2.2 5층×8도메인×4모드 + α 7엔진(처분례·판례룰·벤치마크·규제레이더·협상레버·분쟁시나리오·각주). Playbook 3-Tier·Redflag 24종 자동스캐너·신뢰도 상중하·과징금 기대값·무효확률. 트리거: 계약검토, 계약리뷰, 계약컨설팅, contract review, 레드라인, redline, playbook, NDA, SPA, MSA, DPA, SHA, RCPS, SAFE, MFN, MAC, redflag, 처분례, 판례룰, 벤치마크, 규제레이더, 협상레버, 분쟁시나리오, 각주엔진. NOT: 협상시뮬·복기(→negotiation-skill), 카피톤(→copywriting-skill), 재무모델(→financial-model), BP(→bp-guide), 사업전략(→biz-skill).
 ---
 
-# Contract Consulting Engine v2.0 — "Regulatory Alpha"
+# Contract Consulting Engine v2.2 — "Regulatory Alpha"
 
 계약서를 **5층 × 7도메인 × 4모드 + α 7엔진**으로 검토하는 진단·설계·레드라인·카운터 엔진. **법률자문 대체 ✗** — 검토·협상 준비·리스크 스코어링(과징금 기대값·무효확률)까지. 변호사 최종검토 필수. **포지셔닝: 김앤장 10배 증폭기** — 코퍼스 깊이·사건번호 인용·신뢰도 등급으로 대형로펌 의견서 수준 재현.
 
